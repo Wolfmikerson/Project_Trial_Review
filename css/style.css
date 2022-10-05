@@ -1,4 +1,4 @@
-#navbar{
+#navbar {
   position: fixed;
   top: 0;
   left: 0;
@@ -7,13 +7,13 @@
   border-color: rgba(0, 22, 22, 0.4);
 }
 
-#main-doc{
+#main-doc {
   margin-left: 280px;
 }
 
 @media (min-width: 1281px) {
   /* CSS */
-  p{
+  p {
     background-color: blue;
   }
 }
@@ -34,7 +34,6 @@
   text-decoration: none;
   cursor: pointer;
 }
-
 
 header {
   color: black;
